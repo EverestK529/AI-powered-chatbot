@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+*.so
+
+# Virtual environments
+unified_env/
+
+# Logs and debug output
+*.log
+
+# Rasa files
+models/
+*.db
+*.sqlite
+results/
+
+# Node.js (if applicable)
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
